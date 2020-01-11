@@ -4,7 +4,7 @@ author: "Oladimeji Kazeem"
 date: "1/11/2020"
 output: pdf_document
 
-## This is a markdown file
+## This is a marked down file.
 ---
 
 ```{r setup, include=FALSE}
